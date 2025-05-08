@@ -48,4 +48,4 @@
    - Ứng dụng hỗ trợ chạy trên hệ điều hành Windows hoặc các hệ điều hành khác hỗ trợ Python và Selenium.
 7. Hạn chế:
    -  Trong bài làm em đang sử dụng ứng dụng và thư viện miễn phí nên nó không đọc được chính xác mã Captcha, nên sẽ không tránh khỏi những hạn chế và sai xót. Em 
-      mong thầy thông cảm và góp ý thêm cho bài làm ạ. Em cảm ơn Thầy rất nhiều ạ
+      mong Thầy thông cảm và góp ý thêm cho bài làm ạ. Em cảm ơn Thầy rất nhiều ạ
